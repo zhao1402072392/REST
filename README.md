@@ -39,6 +39,7 @@ done
 done
  --scheduler
     `. 
+    
 A sample command to train the ResNet18 model on Cifar10c is:
 `pct=(0.5 1 2 5)
 upw=(10 30 50 80)
